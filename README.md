@@ -36,3 +36,7 @@ Designing effective AI agents and organizing a team of these agents to perform i
 *LLMs + Cognitive Capabilities = Intelligent AI Agents*
 
 By integrating cognitive abilities into LLMs, we create AI agents that can think, learn, and act autonomously, leading to more efficient and intelligent business workflows.
+
+### Goal:
+Creating capable AI agents and organizing them into collaborative teams to undertake challenging, step-by-step operations.
+
