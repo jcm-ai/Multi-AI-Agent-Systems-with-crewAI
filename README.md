@@ -40,3 +40,14 @@ By integrating cognitive abilities into LLMs, we create AI agents that can think
 ### Goal:
 Creating capable AI agents and organizing them into collaborative teams to undertake challenging, step-by-step operations.
 
+### Why AI Agents better than LLMs?
+
+* LLMs provide human feedback iteratively to refine responses.
+
+* LLMs primarily function as standalone models requiring external input.
+
+* AI agents when LLMs operate autonomously, they transform into AI agents.
+
+* AI agents independently ask and answer questions.
+
+* AI agents capable of continuous learning and adaptation based on task requirements and environmental changes.
