@@ -51,3 +51,17 @@ Creating capable AI agents and organizing them into collaborative teams to under
 * AI agents independently ask and answer questions.
 
 * AI agents capable of continuous learning and adaptation based on task requirements and environmental changes.
+
+### crewAI Framework
+
+* Crew: The top-level organization that manages AI agent teams, oversees workflows, ensures collaboration, and delivers outcomes.
+
+* CrewAI: A framework that empowers AI agents to be autonomous, adaptive, and collaborative.
+
+### Why Multi AI Agents rather single agents?
+
+* Multiple AI agents can cover for each other, ensuring task completion.
+
+* Different AI agents can specialize in various aspects of a task, enhancing overall performance.
+
+* AI agents can work together, sharing knowledge and strategies to tackle complex problems.
