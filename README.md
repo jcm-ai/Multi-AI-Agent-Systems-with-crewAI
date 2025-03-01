@@ -65,3 +65,12 @@ Creating capable AI agents and organizing them into collaborative teams to under
 * Different AI agents can specialize in various aspects of a task, enhancing overall performance.
 
 * AI agents can work together, sharing knowledge and strategies to tackle complex problems.
+
+
+### Applications of multi-agent systems.
+- Tailor resumes and interview prep for job applications
+- Research, write and edit technical articles
+- Automate customer support inquiries
+- Conduct customer outreach campaigns
+- Plan and execute events
+- Perform financial analysis
