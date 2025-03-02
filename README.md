@@ -74,3 +74,8 @@ Creating capable AI agents and organizing them into collaborative teams to under
 - Conduct customer outreach campaigns
 - Plan and execute events
 - Perform financial analysis
+
+### What is Agentic Automation?
+New way to write software. Provide fizzy inputs, apply fuzzy tranformations and get fuzzy outputs.
+
+Reason why people love chatGPT: Probablistic nature of the model.
