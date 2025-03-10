@@ -79,3 +79,11 @@ Creating capable AI agents and organizing them into collaborative teams to under
 New way to write software. Provide fizzy inputs, apply fuzzy tranformations and get fuzzy outputs.
 
 Reason why people love chatGPT: Probablistic nature of the model.
+
+
+### How Agentic Automation improves regular automation?
+- It is a more human-like interaction, as it is based on natural language.
+**Regular Automation (Regular Data Collection and Analysis)**
+- Capture information about the company
+- Use classification to generate scores for company
+- Prioritise for sales
