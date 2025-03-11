@@ -37,6 +37,7 @@ Designing effective AI agents and organizing a team of these agents to perform i
 
 ![331913947](https://github.com/user-attachments/assets/8b514572-ced8-451f-a9cf-decee6bde4c4)
 
+Source: Deeplearning.AI
 
 By integrating cognitive abilities into LLMs, we create AI agents that can think, learn, and act autonomously, leading to more efficient and intelligent business workflows.
 
