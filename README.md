@@ -70,6 +70,10 @@ Creating capable AI agents and organizing them into collaborative teams to under
 
 * AI agents can work together, sharing knowledge and strategies to tackle complex problems.
 
+![2](https://github.com/user-attachments/assets/6bb6d2d5-5a84-415f-8909-9092c7243489)
+
+
+
 
 ### Applications of multi-agent systems.
 - Tailor resumes and interview prep for job applications
