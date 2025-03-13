@@ -72,8 +72,7 @@ Creating capable AI agents and organizing them into collaborative teams to under
 
 ![2](https://github.com/user-attachments/assets/6bb6d2d5-5a84-415f-8909-9092c7243489)
 
-
-
+Source: Deeplearning.AI
 
 ### Applications of multi-agent systems.
 - Tailor resumes and interview prep for job applications
@@ -88,6 +87,9 @@ New way to write software. Provide fizzy inputs, apply fuzzy tranformations and 
 
 Reason why people love chatGPT: Probablistic nature of the model.
 
+![3](https://github.com/user-attachments/assets/df71442a-2c2c-41a7-885d-2d2c9399e535)
+
+Source: Deeplearning.AI
 
 ### How Agentic Automation improves regular automation?
 - It is a more human-like interaction, as it is based on natural language.
