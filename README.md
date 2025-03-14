@@ -98,3 +98,8 @@ Source: Deeplearning.AI
 - Capture information about the company
 - Use classification to generate scores for company
 - Prioritise for sales
+
+![4](https://github.com/user-attachments/assets/2fc648da-53e5-4b4e-a62d-3018f7ad5c97)
+
+Source: Deeplearning.AI
+
