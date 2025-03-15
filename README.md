@@ -110,5 +110,7 @@ Source: Deeplearning.AI
 - AI agent provides intelligent questions to ask based on scores
 - AI agent provides results to sales team
 
+![5](https://github.com/user-attachments/assets/dd9532ca-88d7-421f-8233-bc494263a459)
+
 
 Source: Deeplearning.AI
