@@ -103,3 +103,12 @@ Source: Deeplearning.AI
 
 Source: Deeplearning.AI
 
+### Agentic Automation (Data Collection and Analysis using crew)
+- AI agent research about company (via Google, internal database)
+- AI agent compares companies (new ones, old ones)
+- AI agent scores companies (based on parameters)
+- AI agent provides intelligent questions to ask based on scores
+- AI agent provides results to sales team
+
+
+Source: Deeplearning.AI
