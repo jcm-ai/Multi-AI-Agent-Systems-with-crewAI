@@ -114,3 +114,12 @@ Source: Deeplearning.AI
 
 
 Source: Deeplearning.AI
+
+### Key Components of AI Agent
+- **Role:** Assign specialized role to agents
+- **Memory:** Provide agents with short-term, long-term and entity memory
+- **Tools:** Assign pre-built and custom tools to each agent (eg. for web search)
+- **Focus:** Break down task, goals and tools and assign multiple AI agents for better performance
+- **Guardrails:** Effectively handle errors, hallucinations and infinite loops.
+- **Cooperation:** Perform tasks in series, in parallel and hierarchical fashion
+
