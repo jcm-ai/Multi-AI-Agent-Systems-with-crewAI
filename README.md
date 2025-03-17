@@ -123,3 +123,10 @@ Source: Deeplearning.AI
 - **Guardrails:** Effectively handle errors, hallucinations and infinite loops.
 - **Cooperation:** Perform tasks in series, in parallel and hierarchical fashion
 
+![1](https://github.com/user-attachments/assets/9e6ae792-b7f8-4dcb-a9fc-50d9db7e9e95)
+![2](https://github.com/user-attachments/assets/368c954d-5e34-4a0c-b682-c673cf1daaf9)
+![3](https://github.com/user-attachments/assets/3e986f69-c7b4-480f-b0af-f199601677cc)
+
+Source: Deeplearning.AI
+
+
