@@ -123,3 +123,21 @@ Source: Deeplearning.AI
 - **Guardrails:** Effectively handle errors, hallucinations and infinite loops.
 - **Cooperation:** Perform tasks in series, in parallel and hierarchical fashion
 
+
+
+### Role Playing:
+More specific role = Better response. Gives clear idea about agent's function in the crew.
+
+**Example:** You are a financial analyst v/s you are FINRA approved financial analyst.
+
+```Bash
+from crewai import Agent
+
+agent = Agent(
+  role='Data Analyst',
+  goal='Extract actionable insights',
+  backstory="""You're a data analyst at a large company.
+  You're responsible for analyzing data and providing insights
+  to the business."""
+)
+```
