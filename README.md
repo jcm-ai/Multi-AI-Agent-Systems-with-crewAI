@@ -129,9 +129,6 @@ Source: Deeplearning.AI
 
 Source: Deeplearning.AI
 
-
-
-
 ### Role Playing:
 More specific role = Better response. Gives clear idea about agent's function in the crew.
 
