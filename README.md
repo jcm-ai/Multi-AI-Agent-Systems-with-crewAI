@@ -145,3 +145,31 @@ agent = Agent(
   to the business."""
 )
 ```
+
+### Focus:
+Assinging too many tasks, tools, context to a single agent, cause losing essential information and hallucinate.
+
+Therefore, break down task, goals and tools and assign to multiple AI agents for better performance.
+
+```Bash
+research_ai_task = Task(
+    description='Find and summarize the latest AI news',
+    expected_output='A bullet list summary of the top 5 most important AI news',
+    agent=research_agent,
+    tools=[search_tool]
+)
+
+research_ops_task = Task(
+    description='Find and summarize the latest AI Ops news',
+    expected_output='A bullet list summary of the top 5 most important AI Ops news',
+    agent=research_agent,
+    tools=[search_tool]
+)
+
+write_blog_task = Task(
+    description="Write a full blog post about the importance of AI and its latest news",
+    expected_output='Full blog post that is 4 paragraphs long',
+    agent=writer_agent,
+    context=[research_ai_task, research_ops_task]
+)
+```
