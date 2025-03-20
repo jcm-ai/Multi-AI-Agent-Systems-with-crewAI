@@ -173,3 +173,28 @@ write_blog_task = Task(
     context=[research_ai_task, research_ops_task]
 )
 ```
+
+### Tools:
+Assign tools to AI Agents and Tasks for improving execution and performance.
+
+```Bash
+from crewai import Agent
+
+researcher = Agent(
+    role='Market Research Analyst',
+    goal='Provide up-to-date market analysis of the AI industry',
+    backstory='An expert analyst with a keen eye for market trends.',
+    tools=[search_tool, web_rag_tool]
+)
+```
+
+**Note:** Tasks specific tools override an agent's default tools.
+
+```Bash
+task = Task(
+  description='Find and summarize the latest AI news',
+  expected_output='A bullet list summary of the top 5 most important AI news',
+  agent=research_agent,
+  tools=[search_tool]
+)
+
