@@ -197,4 +197,17 @@ task = Task(
   agent=research_agent,
   tools=[search_tool]
 )
+```
+### Collaboration:
+AI agents can work together, sharing knowledge and strategies to tackle complex problems.
 
+**Sequential Collaboration**
+Ideal for projects requiring tasks to be completed in a specific order.
+
+```Bash
+report_crew = Crew(
+  agents=[researcher, analyst, writer],
+  tasks=[research_task, analysis_task, writing_task], # tasks executed in the order of listing, with output of one task serving as context for the next
+  process=Process.sequential
+)
+```
