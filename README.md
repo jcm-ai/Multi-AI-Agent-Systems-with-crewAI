@@ -211,3 +211,25 @@ report_crew = Crew(
   process=Process.sequential
 )
 ```
+### Hierarchical Collaboration:
+- CrewAI automatically creates a manager agent, requiring the specification of a manager language model (manager_llm) for the manager agent.
+- THe manager allocates tasks among crew members based on their roles, tools and capabilities.
+- The manager evaluates outcomes to ensure they meet the required standards.
+- Set process attribute to Process.hierarchical for Crew object
+- set `manager_llm` for Crew Object. Mandatory for hierarchical process
+
+```Bash
+from crewai import Crew
+from crewai.process import Process
+from langchain_openai import ChatOpenAI
+
+# Example: Creating a crew with a hierarchical process
+# Ensure to provide a manager_llm
+crew = Crew(
+    agents=my_agents,
+    tasks=my_tasks,
+    process=Process.hierarchical,
+    manager_llm=ChatOpenAI(model="gpt-4")
+)
+```
+
