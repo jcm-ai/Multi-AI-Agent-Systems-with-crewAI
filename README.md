@@ -259,3 +259,13 @@ write_article = Task(
 )
 ```
 
+### Guardrails:
+Implemented at Framework level to prevrnt hallucinations, errors and infintite loops.
+
+### Memory:
+CrewAI provides short-term memory, long-term memory, entity memory, and newly identified contextual memory to help AI agents to remember, reason, and learn from past interactions.
+
+**Advantages of Memory:**
+- `More contexual awareness`, leading to more coherent and relevant responses
+- `Experience Accumulation`, learning from past actions to improve future decision-making and problem-solving.
+- `Entity Understanding`, agents can recognize and remember key entities, enhancing understanding.
