@@ -269,3 +269,9 @@ CrewAI provides short-term memory, long-term memory, entity memory, and newly id
 - `More contexual awareness`, leading to more coherent and relevant responses
 - `Experience Accumulation`, learning from past actions to improve future decision-making and problem-solving.
 - `Entity Understanding`, agents can recognize and remember key entities, enhancing understanding.
+
+![1](https://github.com/user-attachments/assets/10cbe0a7-b5c6-433d-88dd-e2bcdf368cc9)
+
+Source: deeplearning.ai
+
+
