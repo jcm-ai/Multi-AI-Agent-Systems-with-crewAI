@@ -275,3 +275,17 @@ CrewAI provides short-term memory, long-term memory, entity memory, and newly id
 Source: deeplearning.ai
 
 
+Enable memory by setting memory=True in the Crew objects arguments.
+
+```Bash
+from crewai import Crew, Agent, Task, Process
+
+# Assemble your crew with memory capabilities
+my_crew = Crew(
+    agents=[...],
+    tasks=[...],
+    process=Process.sequential,
+    memory=True,
+    verbose=True
+)
+```
