@@ -134,7 +134,7 @@ More specific role = Better response. Gives clear idea about agent's function in
 
 **Example:** You are a financial analyst v/s you are FINRA approved financial analyst.
 
-```Bash
+```Python
 from crewai import Agent
 
 agent = Agent(
@@ -151,7 +151,7 @@ Assinging too many tasks, tools, context to a single agent, cause losing essenti
 
 Therefore, break down task, goals and tools and assign to multiple AI agents for better performance.
 
-```Bash
+```Python
 research_ai_task = Task(
     description='Find and summarize the latest AI news',
     expected_output='A bullet list summary of the top 5 most important AI news',
@@ -177,7 +177,7 @@ write_blog_task = Task(
 ### Tools:
 Assign tools to AI Agents and Tasks for improving execution and performance.
 
-```Bash
+```Python
 from crewai import Agent
 
 researcher = Agent(
@@ -190,7 +190,7 @@ researcher = Agent(
 
 **Note:** Tasks specific tools override an agent's default tools.
 
-```Bash
+```Python
 task = Task(
   description='Find and summarize the latest AI news',
   expected_output='A bullet list summary of the top 5 most important AI news',
@@ -204,7 +204,7 @@ AI agents can work together, sharing knowledge and strategies to tackle complex 
 **Sequential Collaboration**
 Ideal for projects requiring tasks to be completed in a specific order.
 
-```Bash
+```Python
 report_crew = Crew(
   agents=[researcher, analyst, writer],
   tasks=[research_task, analysis_task, writing_task], # tasks executed in the order of listing, with output of one task serving as context for the next
@@ -218,7 +218,7 @@ report_crew = Crew(
 - Set process attribute to Process.hierarchical for Crew object
 - set `manager_llm` for Crew Object. Mandatory for hierarchical process
 
-```Bash
+```Python
 from crewai import Crew
 from crewai.process import Process
 from langchain_openai import ChatOpenAI
@@ -236,7 +236,7 @@ crew = Crew(
 ### Parallel Collaboration:
 - Tasks can now be executed asynchronously, allowing for parallel processing and efficiency improvements
 
-```Bash
+```Python
 list_ideas = Task(
     description="List of 5 interesting ideas to explore for an article about AI.",
     expected_output="Bullet point list of 5 ideas for an article.",
@@ -277,7 +277,7 @@ Source: deeplearning.ai
 
 Enable memory by setting memory=True in the Crew objects arguments.
 
-```Bash
+```Python
 from crewai import Crew, Agent, Task, Process
 
 # Assemble your crew with memory capabilities
@@ -289,3 +289,9 @@ my_crew = Crew(
     verbose=True
 )
 ```
+
+![1](https://github.com/user-attachments/assets/90bde76f-c8e7-4f28-ba1b-67fed2844b0c)
+
+Source: deeplearning.ai
+
+
