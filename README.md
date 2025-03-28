@@ -294,4 +294,13 @@ my_crew = Crew(
 
 Source: deeplearning.ai
 
+### Mental Framework for Agent creations
+
+Think of yourself as a **Manager**
+Answer 3 questions:
+1. What are my goals?
+2. What are the Process?
+3. What kind of people I would like to hire, to get the work done?
+
+*This will help to create agents (roles, goals, backstory)*
 
