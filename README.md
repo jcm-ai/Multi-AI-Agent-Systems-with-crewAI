@@ -304,3 +304,8 @@ Answer 3 questions:
 
 *This will help to create agents (roles, goals, backstory)*
 
+![1](https://github.com/user-attachments/assets/b8d503fb-f3a9-4156-bb8c-9cec33b95bdc)
+
+Source: deeplearning.ai
+
+
