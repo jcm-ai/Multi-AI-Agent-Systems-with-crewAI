@@ -308,4 +308,10 @@ Answer 3 questions:
 
 Source: deeplearning.ai
 
+### What makes a great Tool?
+- **Versatile:** Hndle Fuzzy inputs and provide strongly typed outputs
+- **Caching Mechanism:** Reuse previous results. Caching layer prevent unnecessary requests, stay within rate limits, speed up execution time
+- **Error Handling:** Gracefully handle erors & exceptions. How ? Sending error message to agent and ask agent to retry
+
+*NOTE: CrewAI supports both crewAI Toolkit and LangChain Tools*
 
