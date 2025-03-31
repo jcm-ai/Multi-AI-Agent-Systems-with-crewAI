@@ -315,3 +315,15 @@ Source: deeplearning.ai
 
 *NOTE: CrewAI supports both crewAI Toolkit and LangChain Tools*
 
+### Mental Framework for Task creations
+Think of yourself as a **Manager**
+Ask what kind of process and tasks I expect individuals on my team to do.
+
+Task requires min. 3 things:
+
+1. Description
+2. Expected_output
+3. Agent that will perform the task
+
+*This will help to create tasks (description, expected_output, agent)*
+
