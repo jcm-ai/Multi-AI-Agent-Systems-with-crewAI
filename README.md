@@ -327,3 +327,8 @@ Task requires min. 3 things:
 
 *This will help to create tasks (description, expected_output, agent)*
 
+![1](https://github.com/user-attachments/assets/5b217fd0-7a2f-4203-b4df-f584fcf9e59d)
+
+Source: deeplearning.ai
+
+
