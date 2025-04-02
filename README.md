@@ -331,4 +331,7 @@ Task requires min. 3 things:
 
 Source: deeplearning.ai
 
+### Multi-agent Collaboration
+- **Problem with Sequential Collaboration**
+Initial context fades away as tasks flows from agent to agent.
 
