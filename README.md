@@ -335,3 +335,7 @@ Source: deeplearning.ai
 - **Problem with Sequential Collaboration**
 Initial context fades away as tasks flows from agent to agent.
 
+![1](https://github.com/user-attachments/assets/55e43042-1243-459a-9c93-76be29dc2dc7)
+
+Source: deeplearning.ai
+
