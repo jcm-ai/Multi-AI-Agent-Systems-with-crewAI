@@ -339,3 +339,8 @@ Initial context fades away as tasks flows from agent to agent.
 
 Source: deeplearning.ai
 
+### Advantages with Hierarchical Collaboration
+- Manager always remeber initial goal
+- Automatically delegates tasks
+- Asks agents for further improvement, if required.
+
